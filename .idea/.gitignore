@@ -1,0 +1,18 @@
+# JetBrains (IntelliJ IDEA)
+.idea/
+*.iml
+out/
+/shelf/
+/workspace.xml
+
+# Maven
+target/
+*.war
+*.jar
+
+# Logs
+*.log
+
+# Archivos del Sistema
+.DS_Store
+Thumbs.db
